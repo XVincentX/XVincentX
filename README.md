@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### TL; DR
+
+```clojure
+(def me {:jobs   #{:apiaryio :oracle :lunchbadger :stoplight}
+         :awards #{:auth0ambassador :googledevexpert :mvpaward}
+         :langs  #{:typescript :clojure :haskell}})
+```
+
+#### Long version
+
 My name is Vincenzo; I am a Software Developer living in Austin (Texas) focused on WebAPIs and User Interfaces. 
 
 Over the last 6 years, I've been mostly working for SAAS companies providing tools for API Developers, contributing heavily on the engineering side as well as managing small teams.
