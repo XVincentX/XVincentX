@@ -3,7 +3,7 @@
 #### TL; DR
 
 ```clojure
-(def me {:jobs   #{:apiaryio :oracle :lunchbadger :stoplight}
+(def me {:jobs   #{:apiaryio :oracle :lunchbadger :stoplight :sentinelone}
          :awards #{:auth0ambassador :googledevexpert :mvpaward}
          :langs  #{:typescript :clojure :haskell}})
 ```
