@@ -12,7 +12,7 @@
 
 My name is Vincenzo; I am a Software Developer living in Austin (Texas) focused on WebAPIs and User Interfaces. 
 
-Over the last 6 years, I've been mostly working for SAAS companies providing tools for API Developers, contributing heavily on the engineering side as well as managing small teams.
+Over the last 8 years, I've been mostly working for SAAS companies providing tools for API Developers, contributing heavily on the engineering side as well as managing small teams.
 
 Currently, I'm working at [SentinelOne](https://sentinelone.com), and most of the code I write is ~~TypeScript~~ ~~Python~~ **Clojure**, but in general I am always eager to learn new programming languages. I have a decent proficiency in Haskell.
 
