@@ -3,7 +3,7 @@
 #### TL; DR
 
 ```clojure
-(def me {:jobs   #{:apiaryio :oracle :lunchbadger :stoplight :sentinelone}
+(def me {:jobs   #{:apiaryio :oracle :lunchbadger :stoplight :sentinelone :microsoft}
          :awards #{:auth0ambassador :googledevexpert :mvpaward}
          :langs  #{:typescript :clojure :haskell}})
 ```
@@ -14,7 +14,7 @@ My name is Vincenzo; I am a Software Developer living in Austin (Texas) focused 
 
 Over the last 8 years, I've been mostly working for SAAS companies providing tools for API Developers, contributing heavily on the engineering side as well as managing small teams.
 
-Currently, I'm working at [SentinelOne](https://sentinelone.com), and most of the code I write is ~~TypeScript~~ ~~Python~~ **Clojure**, but in general I am always eager to learn new programming languages. I have a decent proficiency in Haskell.
+Currently, I'm working at [Microsoft](https://microsoft.com), and most of the code I write is ~~TypeScript~~ ~~Python~~ **Clojure**, but in general I am always eager to learn new programming languages. I have a decent proficiency in Haskell.
 
 I hold a BA in Computer Engineering (not too sure how useful this information is), and I have been speaking to a number of events around the world (the complete list is on my [terrible website](https://vncz.codes/talks)
 
