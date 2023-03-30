@@ -24,4 +24,8 @@ I've also got a very long ongoing collaboration with the [API Days Team](https:/
 
 My mid-long term interests include collaborative editing, publishing, managing teams.
 
-You can check out my Twitter Account: https://twitter.com/d3dvincent; GitHub: https://github.com/XVincentX. I also write (very infrequently) on dev.to: https://dev.to/vncz
+I write (very infrequently) on dev.to: https://dev.to/vncz, and the best way to get in touch is via my personal email.
+
+Cheers,
+
+V.
