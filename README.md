@@ -10,7 +10,7 @@
 
 #### Long version
 
-My name is Vincenzo; I am a Software Developer living in Austin (Texas) focused on WebAPIs and User Interfaces. 
+My name is Vincenzo; I am a Software Developer living in Denver (Colorado) focused on WebAPIs and User Interfaces. 
 
 Over the last 8 years, I've been mostly working for SAAS companies providing tools for API Developers, contributing heavily on the engineering side as well as managing small teams.
 
