@@ -16,7 +16,7 @@ Over the last 8 years, I've been mostly working for SAAS companies providing too
 
 Currently, I'm working at [Stripe](https://stripe.com), and most of the code I write is ~~TypeScript~~ ~~Python~~ ~~Clojure~~ Ruby, but in general I am always eager to learn new programming languages. I have a decent proficiency in Haskell.
 
-I hold a BA in Computer Engineering (not too sure how useful this information is), and I have been speaking to a number of events around the world (the complete list is on my [terrible website](https://vncz.codes/talks)
+I hold a BA in Computer Engineering (not too sure how useful this information is), and I have been speaking to a number of events around the world (the complete list is on my [terrible website](https://vncz.js.org/talks)
 
 I have been awarded the titles [Auth0 Ambassador](https://auth0.com/blog/authors/vincenzo-chianese/), [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-vincenzo-chianese) in Web Technologies as well as [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003614?fullName=Vincenzo%20Chianese) in Developer Technologies.
 
